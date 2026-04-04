@@ -1,0 +1,3 @@
+# Clear_gmail_inbox
+
+What it says! Odd that Google doesn't have it built in, one wonders why...
